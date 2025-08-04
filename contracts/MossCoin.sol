@@ -12,7 +12,7 @@ import {Nonces} from "@openzeppelin/contracts/utils/Nonces.sol";
 contract MossCoin is ERC20, ERC20Burnable, ERC20Permit, ERC20Votes {
     constructor(address recipient)
         ERC20("Moss Coin", "MOC")
-        ERC20Permit("MossCoin")
+        ERC20Permit("Moss Coin")
     {
         _mint(recipient, 500000000 * 10 ** decimals());
     }
