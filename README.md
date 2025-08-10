@@ -41,4 +41,4 @@
 ### Migration path (summary)
 
 - ✅ **Supported**: **Luniverse → ERC‑20 (2025)**
-- ❌ **Not supported**: **Legacy ERC‑20 (2018) → ERC‑20 (2025)**; any **WMOC** routes.
+- ❌ **Not supported**: **Legacy ERC‑20 (2018) → ERC‑20 (2025)**; any **[WMOC](https://etherscan.io/token/0xbee20b9df360b8442534ed8059f3e5baeeb74eaf)** routes.
