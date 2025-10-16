@@ -37,6 +37,7 @@
 - **Contract**: [0x878120A5C9828759A250156c66D629219F07C5c6](https://scan.luniverse.io/tokens/0x878120A5C9828759A250156c66D629219F07C5c6)
 - **Status**: **Source of the current migration** → supported path is **Luniverse → ERC‑20 (2025)** **only**.
 - **Retirement Address**: [0x805A79fFb89A5deC0728873fCCdB3d95D865a0e2](https://scan.luniverse.io/accounts/0x805A79fFb89A5deC0728873fCCdB3d95D865a0e2)
+- **Burn Address**: [0x000000000000000000000000000000000000dEaD](https://scan.luniverse.io/accounts/0x000000000000000000000000000000000000dEaD)
 - **Note**: The earlier Luniverse MOC ↔ **WMOC(ERC‑20)** swap is **inactive**.
 
 ### Migration path (summary)
