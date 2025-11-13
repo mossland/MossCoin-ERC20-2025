@@ -24,7 +24,7 @@
 
 > For traceability only. Do **not** use these for deposits, swaps, or integrations.
 
-### 1) Legacy ERC‑20 (2018)
+### 1) [Legacy ERC‑20 (2018)](https://github.com/mossland/MossCoin)
 
 - **Network**: Ethereum Mainnet (chainId 1)
 - **Contract**: [0x865ec58b06bF6305B886793AA20A2da31D034E68](https://etherscan.io/token/0x865ec58b06bF6305B886793AA20A2da31D034E68)
